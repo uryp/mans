@@ -23,9 +23,9 @@ sudo apt autoremove
 
 ----------------------------------------------------------------
 5. "Настроить hostname"
-sudo vim /etc/hostname
+sudo mcedit /etc/hostname
     cloud
-sudo vim /etc/hosts
+sudo mcedit /etc/hosts
     127.0.1.1 cloud
 
 ----------------------------------------------------------------
